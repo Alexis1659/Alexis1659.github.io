@@ -1,1 +1,16 @@
-css
+body{
+    background-color: #EFE5DC;
+}
+
+h1{
+    text-align: center;
+    color: #D0B8AC;
+    font-size: 50px;
+    text-shadow: 2px 2px;
+}
+
+p,li{
+	font-size: 27px;
+    color: #5B2333;
+
+}
