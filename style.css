@@ -12,5 +12,17 @@ h1{
 p,li{
 	font-size: 27px;
     color: #5B2333;
-
 }
+
+img{
+	border: 5px solid #5B2333;
+	border-style: double;
+}
+
+li{
+	display: inline-block;
+	float: left;
+	padding: 10px, 65px;
+	margin-right: 100px;
+}
+
